@@ -1,3 +1,3 @@
-module github.com/DylanMeeus/GoAudio
+module github.com/KenStoneBlue/GoAudio
 
 go 1.16
